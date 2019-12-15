@@ -1,11 +1,10 @@
 {
-  "name": "Fortnite hut",
+  "name": "fortnite hut",
   "version": "2.0.0",
   "description": "Fortnite Hut",
   "main": "index.js",
   "scripts": {
-    "start" node index.js
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node index.js"
   },
   "author": "Finn",
   "license": "ISC",
@@ -17,6 +16,6 @@
     "sqlite3": "^4.0.6",
     "unzip": "^0.1.11",
     "yaml": "^1.6.0"
-    "url": "https://github.com/Finnskis/Cloud_based_bot.git"
+
   }
 }
