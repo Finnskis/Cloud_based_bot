@@ -1,12 +1,12 @@
 {
-  "name": "fortnite hut",
+  "name": "corebot",
   "version": "2.0.0",
-  "description": "Fortnite Hut",
+  "description": "CoreBot",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js"
+    "script":"node index.js"
   },
-  "author": "Finn",
+  "author": "DiamondAlex",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
@@ -16,6 +16,5 @@
     "sqlite3": "^4.0.6",
     "unzip": "^0.1.11",
     "yaml": "^1.6.0"
-
   }
 }
