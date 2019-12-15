@@ -3,7 +3,7 @@
 #       CoreBot Config        #
 #                             #
 ###############################
-Bot_Token: "NjUzMDU2NjM2MzY1MDQ1Nzcx.XfWoUA.fsV5xHUA_jWMQ-kewMx_w3FoOco"
+Bot_Token: "NjUzMDU2NjM2MzY1MDQ1Nzcx.XfXd9A.tBC__P2kWOfJROppl67IQ9D2yGA"
 # This is your bot application's token. You can get this by going to discord's developer portal, creating an application, then turning the application into a bot.
 Bot_Prefix: "-"
 # This is the symbol you will have to use to run all of CoreBot's commands.
